@@ -16,3 +16,4 @@ connect them among each other and fill them with different stuff.
 Probably Pixel Dungeon Editor 2.0 will be released on my official profile with following changes:
 - Global code redraft
 - Unavaliable functions will be finally implemented
+- Check https://github.com/pashok3d for any updates on the topic
