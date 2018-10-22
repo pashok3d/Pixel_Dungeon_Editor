@@ -6,7 +6,8 @@ The program has nothing to do with official Pixel Dungeon mobile game! It is rat
 (Though textures were brazenly stolen.) Pixel Dungeon Editor is a joke map editor for unexisting game, where you can create rooms, 
 connect them among each other and fill them with different stuff.
 # How to run
-- Download
+- Download ZIP
+- Extract wherever you want
 - Run Project_3_NewEra_2.exe
 # What is still wrong
 - Save/Load are not avaliable (not implemented)
