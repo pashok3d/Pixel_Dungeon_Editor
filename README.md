@@ -1,4 +1,4 @@
-# Pixel Dungeon Editor
+# Pixel Dungeon Editor 1.0
 Temporary Release Exe Repository (to be replaced by Release Exe Version and Source Version after global update)
 # About
 Pixel Dungeon Editor is my first try of creating program which uses graphical component. It was written in C++ using framework Qt. 
@@ -8,3 +8,6 @@ connect them among each other and fill them with different stuff.
 # How to run
 - Download
 - Run Project_3_NewEra_2.exe
+# What is still wrong
+- Save/Load are not avaliable (not implemented)
+- Undo/Redo are not avaliable (not implemented)
