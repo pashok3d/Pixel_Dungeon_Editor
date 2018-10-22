@@ -12,3 +12,7 @@ connect them among each other and fill them with different stuff.
 # What is still wrong
 - Save/Load are not avaliable (not implemented)
 - Undo/Redo are not avaliable (not implemented)
+# Good to know
+Probably Pixel Dungeon Editor 2.0 will be released on my official profile with following changes:
+- Global code redraft
+- Unavaliable functions will be finally implemented
