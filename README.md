@@ -14,7 +14,7 @@ connect them among each other and fill them with different stuff.
 - Undo/Redo are not avaliable (not implemented)
 # Good to know
 Probably Pixel Dungeon Editor 2.0 will be released on my official profile with following changes:
-- High probability of renaming the program to avoid colisions 
+- High probability of renaming the program to avoid collisions 
 - Global code redraft
 - Unavaliable functions will be finally implemented
 - Check https://github.com/pashok3d for any updates on the topic
