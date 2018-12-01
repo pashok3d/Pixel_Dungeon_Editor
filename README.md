@@ -1,4 +1,4 @@
-# Pixel Dungeon Editor 1.0
+# Pixel Dungeon Editor 1.0 Win
 Temporary Release Exe Repository (to be replaced by Release Exe Version and Source Version after global update)
 # About
 Pixel Dungeon Editor is my first try of creating program which uses graphical component. It was written in C++ using framework Qt. 
