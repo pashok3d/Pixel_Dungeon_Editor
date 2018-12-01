@@ -4,7 +4,7 @@ Temporary Release Exe Repository (to be replaced by Release Exe Version and Sour
 Pixel Dungeon Editor is my first try of creating program which uses graphical component. It was written in C++ using framework Qt. 
 The program has nothing to do with official Pixel Dungeon game (http://pixeldungeon.watabou.ru)! It is rather an imitation of the official game's setting.
 Pixel Dungeon Editor is a joke map editor for unexisting game, where you can create rooms, 
-connect them among each other and fill them with different stuff.
+connect them and fill with different stuff.
 # How to run
 - Download ZIP
 - Extract wherever you want
