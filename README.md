@@ -10,8 +10,6 @@ connect them and fill with different stuff.
 # Requirements 
 - Win OS
 # How to run
-- Download ZIP
-- Extract wherever you want
 - Run Project_3_NewEra_2.exe
 # What is still wrong
 - Save/Load are not avaliable (not implemented)
