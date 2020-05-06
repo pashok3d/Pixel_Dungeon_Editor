@@ -10,7 +10,7 @@ connect them and fill with different stuff.
 # Requirements 
 - Win OS
 # How to run
-- Run Project_3_NewEra_2.exe
+- Download [Pixel_Dungeon_Editor.rar](https://github.com/pashok3d/Pixel_Dungeon_Editor/releases), extract and run Project_3_NewEra_2.exe
 # What is still wrong
 - Save/Load are not avaliable (not implemented)
 - Undo/Redo are not avaliable (not implemented)
